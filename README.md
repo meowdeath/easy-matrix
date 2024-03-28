@@ -11,7 +11,6 @@ Matrix Synapse + PostgreSQL + Coturn (Audio & Video calls) + Caddy installation 
 ### Verified systems
 
 1. Ubuntu 22.04 (Server)
-2. Debian 12 (Server)
 
 ### Run Command
 1. You can use the following command to run the script
