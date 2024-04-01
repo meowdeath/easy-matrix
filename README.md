@@ -13,7 +13,7 @@ Matrix Synapse + PostgreSQL + Coturn (Audio & Video calls) + Caddy installation 
 1. Ubuntu 22.04 (Server)
 
 ### Run Command
-1. You can use the following command to run the script
+1. You can use the following command to run the script (run as root)
    ```bash
    bash <(curl -s https://raw.githubusercontent.com/meowdeath/easy-matrix-install/main/install.sh)
    ```
